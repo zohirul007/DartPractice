@@ -9,7 +9,7 @@ void main()
 	print("Enter second number");
 	int? n2 = int.parse(stdin.readLineSync()!);
 
-	// Subtracting them and printing them
-	int subtract = n1 - n2;
-	print("Result is $subtract");
+	// Multiplying them and printing them
+	int multiply = n1 * n2;
+	print("Result is $multiply");
 }
