@@ -7,7 +7,7 @@ void main()
 	print("Enter your favorite number:");
 
 // Scanning number
-	int? n = int.parse(stdin.readLineSync()!);
+	int? n = int.parse(stdin.readLineSync()!); // ? and ! here null safety in 
 // Here ? and ! are for null safety
 
 	// Printing that number
