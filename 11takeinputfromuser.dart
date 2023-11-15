@@ -1,5 +1,5 @@
 // taking input from user, convert String to integer value with in.parse
-import "dart:math";
+
 import "dart:io";
 
 void main() {
