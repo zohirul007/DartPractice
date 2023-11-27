@@ -1,5 +1,5 @@
 /*If the student receives over 40% on her test, report that her grade passes;
-if not, report that her grade fails. when if condition failed we can find it with else condtion*/
+if not, report that her grade fails. when if condition failed we can find it with else condition */
 
 void main() {
   var grade = 39;
